@@ -6,11 +6,12 @@ thicknessOfBlock=26;
 holeWidth=widthOfBlock+1;
 holeThickness=thicknessOfBlock+1;
 
-totalHeight=0.7*heightOfBlock;
+totalHeight=0.8*heightOfBlock;
 wallThickness=2;
 outerRectangleWidth=holeWidth+2*wallThickness;
 outerRectangleThickness=holeThickness+2*wallThickness;
 circleRadius=sqrt(pow(outerRectangleWidth/2,2) + pow(outerRectangleThickness/2,2));
+echo("circleRadius=", circleRadius);
 
 difference() {
   union() {
