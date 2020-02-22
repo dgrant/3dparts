@@ -46,4 +46,5 @@ minkowski() {
     cover();
     sphere(rounding_size);
 }
-#pipe();
+
+*pipe();
