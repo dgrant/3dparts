@@ -1,0 +1,22 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "HEIGHT": "139",
+            "LEVEL": "E190 Front",
+            "NUM_QUESTIONS": "7",
+            "QUESTION_HEIGHT": "10",
+            "edge_distance": "5",
+            "padding": "4",
+            "text_height": "3",
+            "text_padding": "2",
+            "text_recess": "0.2",
+            "thickness": "0.6",
+            "total_height": "180",
+            "total_width": "110"
+        }
+    },
+    "parameterSets": "",
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
